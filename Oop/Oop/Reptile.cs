@@ -6,7 +6,6 @@ namespace Oop
 {
     public abstract class Reptile : Animal
     {
-        private int speed;
         public Reptile(string name) : base(name)
         {
         }
